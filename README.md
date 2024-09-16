@@ -2,6 +2,7 @@
 
 Some writeups for the DG'HACK 2023 CTF competition at https://www.dghack.fr
 
+![dghack23_score.png](./dghack23_score.png)
 
 - Crypto / [CryptoNeat](/Crypto/CryptoNeat/README.md)
 - Crypto / [AEgisSecureForge part1](/Crypto/AEgisSecureForge_part1/README.md)
